@@ -1,0 +1,3 @@
+# Scapy Webserver
+This is a simple webserver implemented entirely with Scapy!
+Why?  Because Scapy...
